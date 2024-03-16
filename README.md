@@ -20,6 +20,7 @@ Este projeto visa desenvolver um sistema capaz de detectar traços de personalid
 - Scikit-learn
 - Yellowbrick
 - Gradio (para a interface interativa)
+![API](api rodando.PNG)
 
 ## Como Usar:
 
